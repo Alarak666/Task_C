@@ -1,0 +1,13 @@
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\bin\Debug\netcoreapp3.1\Task_Abramovich.exe
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\bin\Debug\netcoreapp3.1\Task_Abramovich.deps.json
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\bin\Debug\netcoreapp3.1\Task_Abramovich.runtimeconfig.json
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\bin\Debug\netcoreapp3.1\Task_Abramovich.runtimeconfig.dev.json
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\bin\Debug\netcoreapp3.1\Task_Abramovich.dll
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\bin\Debug\netcoreapp3.1\Task_Abramovich.pdb
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\obj\Debug\netcoreapp3.1\Task_Abramovich.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\obj\Debug\netcoreapp3.1\Task_Abramovich.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\obj\Debug\netcoreapp3.1\Task_Abramovich.AssemblyInfo.cs
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\obj\Debug\netcoreapp3.1\Task_Abramovich.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\obj\Debug\netcoreapp3.1\Task_Abramovich.dll
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\obj\Debug\netcoreapp3.1\Task_Abramovich.pdb
+C:\Users\popel\source\repos\Task_Abramovich\Task_Abramovich\obj\Debug\netcoreapp3.1\Task_Abramovich.genruntimeconfig.cache

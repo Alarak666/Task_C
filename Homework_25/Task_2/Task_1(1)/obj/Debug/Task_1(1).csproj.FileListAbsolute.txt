@@ -1,0 +1,14 @@
+C:\Users\popel\source\repos\Console_project\Homework_24\Task_1(1)\Task_1(1)\bin\Debug\Task_1(1).exe.config
+C:\Users\popel\source\repos\Console_project\Homework_24\Task_1(1)\Task_1(1)\bin\Debug\Task_1(1).exe
+C:\Users\popel\source\repos\Console_project\Homework_24\Task_1(1)\Task_1(1)\bin\Debug\Task_1(1).pdb
+C:\Users\popel\source\repos\Console_project\Homework_24\Task_1(1)\Task_1(1)\obj\Debug\Task_1(1).csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\Homework_24\Task_1(1)\Task_1(1)\obj\Debug\Task_1(1).csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_24\Task_1(1)\Task_1(1)\obj\Debug\Task_1(1).exe
+C:\Users\popel\source\repos\Console_project\Homework_24\Task_1(1)\Task_1(1)\obj\Debug\Task_1(1).pdb
+C:\Users\popel\source\repos\Console_project\Homework_25\Task_2\Task_1(1)\obj\Debug\Task_1(1).csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\Homework_25\Task_2\Task_1(1)\obj\Debug\Task_1(1).csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_25\Task_2\Task_1(1)\obj\Debug\Task_1(1).exe
+C:\Users\popel\source\repos\Console_project\Homework_25\Task_2\Task_1(1)\obj\Debug\Task_1(1).pdb
+C:\Users\popel\source\repos\Console_project\Homework_25\Task_2\Task_1(1)\bin\Debug\Task_1(1).exe.config
+C:\Users\popel\source\repos\Console_project\Homework_25\Task_2\Task_1(1)\bin\Debug\Task_1(1).exe
+C:\Users\popel\source\repos\Console_project\Homework_25\Task_2\Task_1(1)\bin\Debug\Task_1(1).pdb

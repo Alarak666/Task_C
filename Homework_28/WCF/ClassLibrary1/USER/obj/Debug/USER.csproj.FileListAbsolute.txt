@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\USER\bin\Debug\USER.exe.config
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\USER\bin\Debug\USER.exe
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\USER\bin\Debug\USER.pdb
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\USER\obj\Debug\USER.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\USER\obj\Debug\USER.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\USER\obj\Debug\USER.exe
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\USER\obj\Debug\USER.pdb

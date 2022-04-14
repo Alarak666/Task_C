@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\SERVER\bin\Debug\SERVER.exe.config
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\SERVER\bin\Debug\SERVER.exe
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\SERVER\bin\Debug\SERVER.pdb
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\SERVER\obj\Debug\SERVER.exe
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\SERVER\obj\Debug\SERVER.pdb

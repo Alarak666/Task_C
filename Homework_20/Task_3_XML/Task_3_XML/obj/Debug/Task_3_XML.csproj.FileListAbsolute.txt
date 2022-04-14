@@ -1,0 +1,10 @@
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\bin\Debug\Task_3_XML.exe.config
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\bin\Debug\Task_3_XML.exe
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\bin\Debug\Task_3_XML.pdb
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\obj\Debug\Task_3_XML.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\obj\Debug\Task_3_XML.Form1.resources
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\obj\Debug\Task_3_XML.Properties.Resources.resources
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\obj\Debug\Task_3_XML.csproj.GenerateResource.cache
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\obj\Debug\Task_3_XML.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\obj\Debug\Task_3_XML.exe
+C:\Users\popel\source\repos\Console_project\Homework_20\Task_3_XML\Task_3_XML\obj\Debug\Task_3_XML.pdb

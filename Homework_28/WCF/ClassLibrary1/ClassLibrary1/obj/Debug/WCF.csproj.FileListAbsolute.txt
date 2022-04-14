@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\ClassLibrary1\obj\Debug\WCF.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\ClassLibrary1\obj\Debug\WCF.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\popel\source\repos\Console_project\WCF\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

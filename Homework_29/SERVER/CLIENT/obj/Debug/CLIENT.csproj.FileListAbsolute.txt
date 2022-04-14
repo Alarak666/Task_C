@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\popel\source\repos\Console_project\Homework_29\SERVER\CLIENT\obj\Debug\CLIENT.csprojAssemblyReference.cache

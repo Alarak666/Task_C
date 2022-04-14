@@ -1,0 +1,13 @@
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\bin\Debug\netcoreapp3.1\Index_UK_EN_RU.exe
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\bin\Debug\netcoreapp3.1\Index_UK_EN_RU.deps.json
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\bin\Debug\netcoreapp3.1\Index_UK_EN_RU.runtimeconfig.json
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\bin\Debug\netcoreapp3.1\Index_UK_EN_RU.runtimeconfig.dev.json
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\bin\Debug\netcoreapp3.1\Index_UK_EN_RU.dll
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\bin\Debug\netcoreapp3.1\Index_UK_EN_RU.pdb
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\obj\Debug\netcoreapp3.1\Index_UK_EN_RU.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\obj\Debug\netcoreapp3.1\Index_UK_EN_RU.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\obj\Debug\netcoreapp3.1\Index_UK_EN_RU.AssemblyInfo.cs
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\obj\Debug\netcoreapp3.1\Index_UK_EN_RU.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\obj\Debug\netcoreapp3.1\Index_UK_EN_RU.dll
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\obj\Debug\netcoreapp3.1\Index_UK_EN_RU.pdb
+C:\Users\popel\source\repos\Console_project\Homework_9\Класна_робота\Index_UK_EN_RU\Index_UK_EN_RU\obj\Debug\netcoreapp3.1\Index_UK_EN_RU.genruntimeconfig.cache

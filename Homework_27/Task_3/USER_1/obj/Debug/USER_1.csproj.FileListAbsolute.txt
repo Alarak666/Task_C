@@ -1,0 +1,5 @@
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\USER_1\bin\Debug\USER_1.dll
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\USER_1\bin\Debug\USER_1.pdb
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\USER_1\obj\Debug\USER_1.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\USER_1\obj\Debug\USER_1.dll
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\USER_1\obj\Debug\USER_1.pdb

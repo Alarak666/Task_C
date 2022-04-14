@@ -1,0 +1,12 @@
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\bin\Debug\Task_3.exe
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\bin\Debug\Task_3.pdb
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\obj\Debug\Task_3.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\obj\Debug\Task_3.exe
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\obj\Debug\Task_3.pdb
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\bin\Debug\USER_1.dll
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\bin\Debug\USER_2.dll
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\bin\Debug\USER_1.pdb
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\bin\Debug\USER_2.pdb
+C:\Users\popel\source\repos\Console_project\Homework_27\Task_3\Task_3\obj\Debug\Task_3.csproj.CopyComplete

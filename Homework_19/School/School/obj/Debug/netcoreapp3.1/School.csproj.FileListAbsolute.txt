@@ -1,0 +1,16 @@
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\bin\Debug\netcoreapp3.1\School.exe
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\bin\Debug\netcoreapp3.1\Personal.dll
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\bin\Debug\netcoreapp3.1\Personal.pdb
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\obj\Debug\netcoreapp3.1\School.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\obj\Debug\netcoreapp3.1\School.pdb
+C:\Users\popel\source\repos\Console_project\Homework_19\School\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache

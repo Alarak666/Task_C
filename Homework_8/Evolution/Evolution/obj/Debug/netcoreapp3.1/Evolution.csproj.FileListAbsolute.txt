@@ -1,0 +1,13 @@
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\bin\Debug\netcoreapp3.1\Evolution.exe
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\bin\Debug\netcoreapp3.1\Evolution.deps.json
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\bin\Debug\netcoreapp3.1\Evolution.runtimeconfig.json
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\bin\Debug\netcoreapp3.1\Evolution.runtimeconfig.dev.json
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\bin\Debug\netcoreapp3.1\Evolution.dll
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\bin\Debug\netcoreapp3.1\Evolution.pdb
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\obj\Debug\netcoreapp3.1\Evolution.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\obj\Debug\netcoreapp3.1\Evolution.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\obj\Debug\netcoreapp3.1\Evolution.AssemblyInfo.cs
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\obj\Debug\netcoreapp3.1\Evolution.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\obj\Debug\netcoreapp3.1\Evolution.dll
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\obj\Debug\netcoreapp3.1\Evolution.pdb
+C:\Users\popel\source\repos\Console_project\Homework_8\Evolution\Evolution\obj\Debug\netcoreapp3.1\Evolution.genruntimeconfig.cache

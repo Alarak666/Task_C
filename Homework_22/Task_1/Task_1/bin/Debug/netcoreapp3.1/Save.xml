@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<SuperHero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <hp>66</hp>
+  <name>Anton</name>
+  <score>20</score>
+  <pistol>
+    <damage>12</damage>
+    <name>M16</name>
+  </pistol>
+  <quests>
+    <Quest>
+      <name>Убить парные числа - 10 </name>
+      <score>100</score>
+      <status>0</status>
+    </Quest>
+  </quests>
+</SuperHero>

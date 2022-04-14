@@ -1,0 +1,12 @@
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\bin\Debug\netcoreapp3.1\Task_4.exe
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\bin\Debug\netcoreapp3.1\Task_4.deps.json
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\bin\Debug\netcoreapp3.1\Task_4.runtimeconfig.json
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\bin\Debug\netcoreapp3.1\Task_4.runtimeconfig.dev.json
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\bin\Debug\netcoreapp3.1\Task_4.dll
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\bin\Debug\netcoreapp3.1\Task_4.pdb
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\obj\Debug\netcoreapp3.1\Task_4.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\obj\Debug\netcoreapp3.1\Task_4.AssemblyInfo.cs
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\obj\Debug\netcoreapp3.1\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\obj\Debug\netcoreapp3.1\Task_4.dll
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\obj\Debug\netcoreapp3.1\Task_4.pdb
+C:\Users\popel\source\repos\Console_project\Homework_17\Task_4\Task_4\obj\Debug\netcoreapp3.1\Task_4.genruntimeconfig.cache

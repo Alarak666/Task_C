@@ -1,0 +1,26 @@
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.exe
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.deps.json
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.runtimeconfig.json
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.runtimeconfig.dev.json
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.dll
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.pdb
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.AssemblyInfo.cs
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.dll
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.pdb
+C:\Users\popel\source\repos\Console_project\task_1\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.genruntimeconfig.cache
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.exe
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.deps.json
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.runtimeconfig.json
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.runtimeconfig.dev.json
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.dll
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\bin\Debug\netcoreapp3.1\Task_7.pdb
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.AssemblyInfo.cs
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.dll
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.pdb
+C:\Users\popel\source\repos\Console_project\Homework_6\Домашня робота\Task_7\Task_7\obj\Debug\netcoreapp3.1\Task_7.genruntimeconfig.cache

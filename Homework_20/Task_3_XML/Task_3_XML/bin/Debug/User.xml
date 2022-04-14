@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <userList>
+    <User>
+      <id>1</id>
+      <name>23</name>
+      <surname>sfdf</surname>
+      <salary>sd</salary>
+      <position>13</position>
+    </User>
+    <User>
+      <id>2</id>
+      <name>sadas</name>
+      <surname>asd</surname>
+      <salary>asd</salary>
+      <position>12</position>
+    </User>
+  </userList>
+</Users>

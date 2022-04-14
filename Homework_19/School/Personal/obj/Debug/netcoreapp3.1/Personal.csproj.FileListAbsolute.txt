@@ -1,0 +1,8 @@
+C:\Users\popel\source\repos\Console_project\Homework_19\School\Personal\bin\Debug\netcoreapp3.1\Personal.deps.json
+C:\Users\popel\source\repos\Console_project\Homework_19\School\Personal\bin\Debug\netcoreapp3.1\Personal.dll
+C:\Users\popel\source\repos\Console_project\Homework_19\School\Personal\bin\Debug\netcoreapp3.1\Personal.pdb
+C:\Users\popel\source\repos\Console_project\Homework_19\School\Personal\obj\Debug\netcoreapp3.1\Personal.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_19\School\Personal\obj\Debug\netcoreapp3.1\Personal.AssemblyInfo.cs
+C:\Users\popel\source\repos\Console_project\Homework_19\School\Personal\obj\Debug\netcoreapp3.1\Personal.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Console_project\Homework_19\School\Personal\obj\Debug\netcoreapp3.1\Personal.dll
+C:\Users\popel\source\repos\Console_project\Homework_19\School\Personal\obj\Debug\netcoreapp3.1\Personal.pdb
